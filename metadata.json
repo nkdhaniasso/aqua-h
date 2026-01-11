@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Aqua Distenser",
+  "description": "A smart lake monitor and water quality assistant focusing on SDG 6 (Clean Water and Sanitation). It helps users locate nearby lakes, check water quality, and interact with an AI Aqua assistant for water conservation insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
